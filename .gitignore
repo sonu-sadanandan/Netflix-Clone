@@ -41,7 +41,8 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
-
+netflix-clone/node_modules
+netflix-clone/.env
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
 
